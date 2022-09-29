@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknew_front_end"]=self["webpackChunknew_front_end"]||[]).push([[443],{5399:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var u=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("This is an about page")])])}],r=e(1001),a={},l=(0,r.Z)(a,u,s,!1,null,null,null),f=l.exports}}]);
+//# sourceMappingURL=about.cbe5f3b4.js.map
